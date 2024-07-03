@@ -105,3 +105,4 @@ Our themes are available for a variety of applications and more! If your applica
 ## ❤️ Gratitude
 Thank
 - [ Catppuccin ]( https://github.com/catppuccin ) The inspiration comes mainly from this theme. :)
+- [ Comfy-Themes ](https://github.com/Comfy-Themes) Theme that I find inspiring and beautiful.
