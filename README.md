@@ -95,10 +95,14 @@ The Eurasier is a breed of dog known for its gentleness, calm and loyalty. These
 Our themes are available for a variety of applications and more! If your application doesn't exist, why not add our theme to the application and add it to the list?
 
 #### IDEs
-- <a href="">Visual Studio Code</a>
+- <a href="">Visual Studio Code (Comming Soon...)</a>
+
+#### AI
+- <a href="https://github.com/doggui-pack/ChatGPT">ChatGPT</a>
 
 #### Social Networking
-- <a href="">Discord</a>
+- <a href="">Discord (Comming Soon...)</a>
+- <a href="https://github.com/doggui-pack/tiktok">TikTok</a>
 
 #### ...
 
